@@ -13,6 +13,8 @@
             //returning a function
             return function(y){
                 console.log(x+y);
+                console.log("working");
+                
             }
 
         }
